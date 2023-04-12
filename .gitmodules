@@ -1,3 +1,6 @@
 [submodule "Assets/Core2"]
 	path = Assets/Core2
 	url = https://github.com/Silvestor83/Core.git
+[submodule "Modules/Minigames"]
+	path = Modules/Minigames
+	url = https://github.com/Silvestor83/Minigames.git
